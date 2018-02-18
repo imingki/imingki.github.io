@@ -1,2 +1,2 @@
-# www.etmi.cn
+# etmi.cn
 i.m
